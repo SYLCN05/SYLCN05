@@ -1,5 +1,5 @@
 # 💫 About Me:
-19-Year-Old ICT Bachelor Student.<br>Specializing in Software Engineering.<br>Committed to learning and growing in the tech industry.
+20-Year-Old ICT Bachelor Student.<br>Specializing in Software Engineering.<br>Committed to learning and growing in the tech industry.
 
 
 ## 🌐 Socials:
